@@ -313,4 +313,4 @@ def update_plot2(country_name):
 
 # 3. Start the Dash server
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
